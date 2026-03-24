@@ -11,5 +11,5 @@ LifeLine AI eliminates the panic. With a single spoken sentence, our AI triages 
 📱 Responsive & Accessible: Beautiful, high-contrast, "Tap-Friendly" UI built for adrenaline-filled situations.
 
 
-The Ranking Algorithm Formula
+The Ranking Algorithm Formula 
 Our backend (ranking.py) calculates precisely where to send you: Final Score = (Distance * 40%) + (Availability * 30%) + (Response Time * 20%) + (Rating * 10%) (Weights dynamically adjust: E.g., if you need an Ambulance, Response Time jumps to 40% importance).
